@@ -1,3 +1,10 @@
+// https://www.geeksforgeeks.org/problems/reverse-digit0316/1?page=1&difficulty=School&status=solved&sortBy=submissions
+
+// keep on taking the modulo of the number
+// keep on multiplying the result variable (initially 0) with 10 and adding the modulo result into it
+// keep on dividing the number by 10 to decrease it
+// return the result variable
+
 //{ Driver Code Starts
 
 #include<bits/stdc++.h>
